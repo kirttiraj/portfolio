@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "date": "07/10/2022",
+      "title": "CRYPTO MANAGER",
+      "description": "In this Project User Can Easily Find The Current Data Of Any Crypto Currency And Also See The Timeline Of That Perticular Currency In Graph To Retrive Data.",
+      "url": "https://crypto-manger-kirttiraj.vercel.app/",
+      "imgSrc": "https://i.ibb.co/PF1zbb9/rockets.gif"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "Amasy Live ",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://crypto-manger-kirttiraj.vercel.app/",
+      "imgSrc": "https://blog.stucred.com/wp-content/uploads/2019/08/maxresdefault-14-1140x660.jpg"
+    },
+   
+
+    {
+      "date": "17/10/2022",
+      "title": "REACT Movie",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://crypto-manger-kirttiraj.vercel.app/",
+      "imgSrc": "https://cdn-ak.f.st-hatena.com/images/fotolife/n/nativecamp_official/20220630/20220630114443.png"
+    },
+    {
+      "date": "20/10/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/how-to-make-an-online-portfolio.webp"
+    }
+  ]
+,
+  "domain": [
+    {
+      "date": "07/10/2022",
+      "title": "Spring Framework"
+    
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "React Js "
+      
+    }
+    ,
+    {
+      "date": "11/10/2022",
+      "title": "Html 5, Tailwind CSS "
+      
+    }
+    ,
+    {
+      "date": "11/10/2022",
+      "title": "Android Devlopment "
+      
+    }
+    ,
+    {
+      "date": "11/10/2022",
+      "title": "Java Script  "
+      
+    }
+    ,
+    {
+      "date": "11/10/2022",
+      "title": " SQL , PHP "
+      
+    }
+   
+
+   
+  ]
+  
+}
+
+
+  
